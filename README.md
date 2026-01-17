@@ -4,7 +4,8 @@ This repository contains my personal notes while learning quantum computing.
 ## Contents (for now)
 - Quantum bits and superposition
 - Quantum gates (X, H, Z, CNOT etc)
-- Simple Quantum Circuits 
+- Simple Quantum Circuits
+- ++Deutsch Algorithm
 
 ## Technologies
 - **Language** Python
